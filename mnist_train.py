@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 26 17:08:11 2024
-
-@author: Hunter
-"""
-
 import numpy as np
 from sklearn.datasets import fetch_openml
 import matplotlib.pyplot as plt
