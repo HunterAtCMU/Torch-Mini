@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 24 14:26:17 2024
-
-@author: Hunter
-"""
-
 import numpy as np
 
 # Tensor class as you defined...
