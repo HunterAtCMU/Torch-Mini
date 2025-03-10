@@ -1,4 +1,4 @@
-# mytorch
+# Torch-Mini
 
 ## Homebrew Machine Learning Library using Python and NumPy
 
